@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "1a6a399670929f939c580a67efc5e5c3",
-    "url": "/meta/static/media/speaker.1a6a3996.svg"
+    "revision": "f83bdec8238d8902c1722f30b968f1d0",
+    "url": "/meta/static/media/attention.f83bdec8.wav"
   },
   {
-    "revision": "9c069d8075be86948683",
-    "url": "/meta/static/css/main.6b492564.chunk.css"
+    "revision": "485e0725a03980275f81",
+    "url": "/meta/static/css/main.7a950a9e.chunk.css"
   },
   {
     "revision": "e5384e24ffdeb00db2f9",
     "url": "/meta/static/js/runtime~main.f53e4213.js"
   },
   {
-    "revision": "3efa138ac63da3c780e4",
-    "url": "/meta/static/js/2.cd3fc5e1.chunk.js"
+    "revision": "fc1feb3f993b6cb23e08",
+    "url": "/meta/static/js/2.a9ae2dc9.chunk.js"
   },
   {
     "revision": "4343fe6dddb1317aa670f8d6272a0428",
     "url": "/meta/static/media/fire_alert.4343fe6d.png"
   },
   {
-    "revision": "9c069d8075be86948683",
-    "url": "/meta/static/js/main.5c9ecaf7.chunk.js"
+    "revision": "1a6a399670929f939c580a67efc5e5c3",
+    "url": "/meta/static/media/speaker.1a6a3996.svg"
   },
   {
-    "revision": "f83bdec8238d8902c1722f30b968f1d0",
-    "url": "/meta/static/media/attention.f83bdec8.wav"
+    "revision": "485e0725a03980275f81",
+    "url": "/meta/static/js/main.37460e5c.chunk.js"
   },
   {
     "revision": "6ec24ef8794fbea384aed92cb226a06c",
@@ -36,11 +36,15 @@ self.__precacheManifest = [
     "url": "/meta/static/media/gong.6b6a283d.wav"
   },
   {
+    "revision": "363820cba24a76456054b80f6a26395d",
+    "url": "/meta/static/media/go.363820cb.mp3"
+  },
+  {
     "revision": "05eb3326f6bc4a6ccfbc3e309adae302",
     "url": "/meta/static/media/sirena.05eb3326.wav"
   },
   {
-    "revision": "248f909398b2d2b9327828a9c0efb919",
+    "revision": "50bdd0725373be92811084854b2f05ba",
     "url": "/meta/index.html"
   }
 ];
