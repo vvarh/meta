@@ -1,6 +1,6 @@
 {
     "short_name": "Meta",
-    "name": "Meta-editor",
+    "name": "Meta",
     "start_url": "/meta/",
     "background_color": "#ffffff",
     "color": "#ffffff",
@@ -8,12 +8,12 @@
     "theme_color": "#2196f3",
     "icons": [
       {
-        "src": "/images/icons-192.png",
+        "src": "/meta/images/icons-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/icons-512.png",
+        "src": "/meta/images/icons-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
