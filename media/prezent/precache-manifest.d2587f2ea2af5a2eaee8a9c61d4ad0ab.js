@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ccc083853386f5f6d7143e682e955c6",
+    "revision": "205f00f4e68c935d3ebedbe4a05bd485",
     "url": "/upload/media/prezent/index.html"
   },
   {
-    "revision": "c64cdb203d4d590fa1a5",
-    "url": "/upload/media/prezent/static/css/main.26a7d80d.chunk.css"
+    "revision": "5ac2339d0735bc4d1082",
+    "url": "/upload/media/prezent/static/css/main.cd90ccfd.chunk.css"
   },
   {
-    "revision": "05c3cce2fc72f9ae9cc2",
-    "url": "/upload/media/prezent/static/js/2.440b5009.chunk.js"
+    "revision": "b977d1c063790d0167c1",
+    "url": "/upload/media/prezent/static/js/2.4b2347f4.chunk.js"
   },
   {
-    "revision": "c64cdb203d4d590fa1a5",
-    "url": "/upload/media/prezent/static/js/main.05c32c90.chunk.js"
+    "revision": "5ac2339d0735bc4d1082",
+    "url": "/upload/media/prezent/static/js/main.b94a8d9e.chunk.js"
   },
   {
     "revision": "42d815b651686dda738f",
