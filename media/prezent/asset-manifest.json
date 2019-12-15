@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/upload/media/prezent/static/css/main.cd90ccfd.chunk.css",
-    "main.js": "/upload/media/prezent/static/js/main.b94a8d9e.chunk.js",
-    "main.js.map": "/upload/media/prezent/static/js/main.b94a8d9e.chunk.js.map",
+    "main.css": "/upload/media/prezent/static/css/main.bc920a86.chunk.css",
+    "main.js": "/upload/media/prezent/static/js/main.71a413b9.chunk.js",
+    "main.js.map": "/upload/media/prezent/static/js/main.71a413b9.chunk.js.map",
     "runtime~main.js": "/upload/media/prezent/static/js/runtime~main.c2cbb119.js",
     "runtime~main.js.map": "/upload/media/prezent/static/js/runtime~main.c2cbb119.js.map",
-    "static/js/2.4b2347f4.chunk.js": "/upload/media/prezent/static/js/2.4b2347f4.chunk.js",
-    "static/js/2.4b2347f4.chunk.js.map": "/upload/media/prezent/static/js/2.4b2347f4.chunk.js.map",
+    "static/js/2.265fe810.chunk.js": "/upload/media/prezent/static/js/2.265fe810.chunk.js",
+    "static/js/2.265fe810.chunk.js.map": "/upload/media/prezent/static/js/2.265fe810.chunk.js.map",
     "index.html": "/upload/media/prezent/index.html",
-    "precache-manifest.d2587f2ea2af5a2eaee8a9c61d4ad0ab.js": "/upload/media/prezent/precache-manifest.d2587f2ea2af5a2eaee8a9c61d4ad0ab.js",
+    "precache-manifest.c88d003aa8c543197d63a91b73b861b7.js": "/upload/media/prezent/precache-manifest.c88d003aa8c543197d63a91b73b861b7.js",
     "service-worker.js": "/upload/media/prezent/service-worker.js",
-    "static/css/main.cd90ccfd.chunk.css.map": "/upload/media/prezent/static/css/main.cd90ccfd.chunk.css.map",
+    "static/css/main.bc920a86.chunk.css.map": "/upload/media/prezent/static/css/main.bc920a86.chunk.css.map",
     "static/media/17821_m.png": "/upload/media/prezent/static/media/17821_m.3907bccc.png",
     "static/media/attention.wav": "/upload/media/prezent/static/media/attention.f83bdec8.wav",
     "static/media/calculator.png": "/upload/media/prezent/static/media/calculator.caaff980.png",
@@ -20,6 +20,6 @@
     "static/media/logo_black-2.png": "/upload/media/prezent/static/media/logo_black-2.c8d29215.png",
     "static/media/mic-3-2.png": "/upload/media/prezent/static/media/mic-3-2.70dfb9e6.png",
     "static/media/sirena.wav": "/upload/media/prezent/static/media/sirena.05eb3326.wav",
-    "static/media/speaker.svg": "/upload/media/prezent/static/media/speaker.1a6a3996.svg"
+    "static/media/speaker.svg": "/upload/media/prezent/static/media/speaker.daf51278.svg"
   }
 }

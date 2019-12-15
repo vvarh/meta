@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "205f00f4e68c935d3ebedbe4a05bd485",
+    "revision": "142c41a2ff8be406dc94f313829337e8",
     "url": "/upload/media/prezent/index.html"
   },
   {
-    "revision": "5ac2339d0735bc4d1082",
-    "url": "/upload/media/prezent/static/css/main.cd90ccfd.chunk.css"
+    "revision": "43d1b7d44ffeb8ab67dc",
+    "url": "/upload/media/prezent/static/css/main.bc920a86.chunk.css"
   },
   {
-    "revision": "b977d1c063790d0167c1",
-    "url": "/upload/media/prezent/static/js/2.4b2347f4.chunk.js"
+    "revision": "c90382414d8a46b28a6d",
+    "url": "/upload/media/prezent/static/js/2.265fe810.chunk.js"
   },
   {
-    "revision": "5ac2339d0735bc4d1082",
-    "url": "/upload/media/prezent/static/js/main.b94a8d9e.chunk.js"
+    "revision": "43d1b7d44ffeb8ab67dc",
+    "url": "/upload/media/prezent/static/js/main.71a413b9.chunk.js"
   },
   {
     "revision": "42d815b651686dda738f",
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/upload/media/prezent/static/media/sirena.05eb3326.wav"
   },
   {
-    "revision": "1a6a399670929f939c580a67efc5e5c3",
-    "url": "/upload/media/prezent/static/media/speaker.1a6a3996.svg"
+    "revision": "daf51278c74d779d4305c9fb3fca1af5",
+    "url": "/upload/media/prezent/static/media/speaker.daf51278.svg"
   }
 ]);
