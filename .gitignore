@@ -1,0 +1,39 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# Cruft
+*~
+*#
+.#*
+.DS_Store
+
+# Test
+coverage
+.eslintcache
+
+# Logs
+*.log
+
+# npm
+node_modules/
+.npm
+npm-debug.log*
+package-lock.json
+/build/bundle.js
+/build/index.html
+/build*
+/build/*
+# Editor/IDE
+.idea
+.vscode
+
+# temp
+tmp/
