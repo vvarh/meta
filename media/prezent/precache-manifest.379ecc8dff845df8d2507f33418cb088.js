@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60e08d87b17992a616956bd1ff1b1831",
+    "revision": "41e72d373df40056d123f4d5b7a64ea5",
     "url": "/upload/media/prezent/index.html"
   },
   {
-    "revision": "37f84d9d8b386a68cb6b",
-    "url": "/upload/media/prezent/static/css/main.e9befdfc.chunk.css"
+    "revision": "2da747c9113fe51c59ec",
+    "url": "/upload/media/prezent/static/css/main.50ea35cc.chunk.css"
   },
   {
-    "revision": "479e338c0bea95220faa",
-    "url": "/upload/media/prezent/static/js/2.2a552178.chunk.js"
+    "revision": "7988c61b97983ae12202",
+    "url": "/upload/media/prezent/static/js/2.ba1aa33f.chunk.js"
   },
   {
-    "revision": "37f84d9d8b386a68cb6b",
-    "url": "/upload/media/prezent/static/js/main.df162b07.chunk.js"
+    "revision": "2da747c9113fe51c59ec",
+    "url": "/upload/media/prezent/static/js/main.d3fff117.chunk.js"
   },
   {
-    "revision": "42d815b651686dda738f",
-    "url": "/upload/media/prezent/static/js/runtime~main.c2cbb119.js"
+    "revision": "fe36a89a35b9b5bce7c7",
+    "url": "/upload/media/prezent/static/js/runtime~main.bb8ceaf2.js"
   },
   {
     "revision": "3907bccca555559f8606a5dbec1b490e",
