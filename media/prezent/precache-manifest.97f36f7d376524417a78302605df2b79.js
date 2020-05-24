@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cc4852349adf3af19eb5a45e58882f7",
+    "revision": "d1112e141f00aa004e47b80cd484fdd9",
     "url": "/upload/media/prezent/index.html"
   },
   {
-    "revision": "85107cfc2807408027f8",
-    "url": "/upload/media/prezent/static/css/main.eaeff1d5.chunk.css"
+    "revision": "5dc427335781b4d8ef8a",
+    "url": "/upload/media/prezent/static/css/main.bfd52763.chunk.css"
   },
   {
-    "revision": "5c431451a1c6f91dc88d",
-    "url": "/upload/media/prezent/static/js/2.d111d85b.chunk.js"
+    "revision": "0b01d832b8f776f30123",
+    "url": "/upload/media/prezent/static/js/2.4d414667.chunk.js"
   },
   {
     "revision": "0cb41c36e136d1fa8dc517f20703f9ee",
-    "url": "/upload/media/prezent/static/js/2.d111d85b.chunk.js.LICENSE.txt"
+    "url": "/upload/media/prezent/static/js/2.4d414667.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85107cfc2807408027f8",
-    "url": "/upload/media/prezent/static/js/main.d88b331b.chunk.js"
+    "revision": "5dc427335781b4d8ef8a",
+    "url": "/upload/media/prezent/static/js/main.cdef5d03.chunk.js"
   },
   {
     "revision": "fb406004e29becd49038",
