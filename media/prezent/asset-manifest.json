@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/upload/media/prezent/static/css/main.bfd52763.chunk.css",
-    "main.js": "/upload/media/prezent/static/js/main.fe8dfa50.chunk.js",
-    "main.js.map": "/upload/media/prezent/static/js/main.fe8dfa50.chunk.js.map",
+    "main.js": "/upload/media/prezent/static/js/main.243c2478.chunk.js",
+    "main.js.map": "/upload/media/prezent/static/js/main.243c2478.chunk.js.map",
     "runtime-main.js": "/upload/media/prezent/static/js/runtime-main.f38104e8.js",
     "runtime-main.js.map": "/upload/media/prezent/static/js/runtime-main.f38104e8.js.map",
     "static/js/2.4d414667.chunk.js": "/upload/media/prezent/static/js/2.4d414667.chunk.js",
     "static/js/2.4d414667.chunk.js.map": "/upload/media/prezent/static/js/2.4d414667.chunk.js.map",
     "index.html": "/upload/media/prezent/index.html",
-    "precache-manifest.337c64176411594647fc66fc3f64b61c.js": "/upload/media/prezent/precache-manifest.337c64176411594647fc66fc3f64b61c.js",
+    "precache-manifest.72e3a7d75b0cd1467ac176d29ae32391.js": "/upload/media/prezent/precache-manifest.72e3a7d75b0cd1467ac176d29ae32391.js",
     "service-worker.js": "/upload/media/prezent/service-worker.js",
     "static/css/main.bfd52763.chunk.css.map": "/upload/media/prezent/static/css/main.bfd52763.chunk.css.map",
     "static/js/2.4d414667.chunk.js.LICENSE.txt": "/upload/media/prezent/static/js/2.4d414667.chunk.js.LICENSE.txt",
@@ -75,6 +75,6 @@
     "static/js/runtime-main.f38104e8.js",
     "static/js/2.4d414667.chunk.js",
     "static/css/main.bfd52763.chunk.css",
-    "static/js/main.fe8dfa50.chunk.js"
+    "static/js/main.243c2478.chunk.js"
   ]
 }
