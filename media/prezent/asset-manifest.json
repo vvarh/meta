@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/upload/media/prezent/static/css/main.bfd52763.chunk.css",
-    "main.js": "/upload/media/prezent/static/js/main.243c2478.chunk.js",
-    "main.js.map": "/upload/media/prezent/static/js/main.243c2478.chunk.js.map",
+    "main.css": "/upload/media/prezent/static/css/main.8d66d91d.chunk.css",
+    "main.js": "/upload/media/prezent/static/js/main.f386cad3.chunk.js",
+    "main.js.map": "/upload/media/prezent/static/js/main.f386cad3.chunk.js.map",
     "runtime-main.js": "/upload/media/prezent/static/js/runtime-main.f38104e8.js",
     "runtime-main.js.map": "/upload/media/prezent/static/js/runtime-main.f38104e8.js.map",
-    "static/js/2.4d414667.chunk.js": "/upload/media/prezent/static/js/2.4d414667.chunk.js",
-    "static/js/2.4d414667.chunk.js.map": "/upload/media/prezent/static/js/2.4d414667.chunk.js.map",
+    "static/js/2.94585eb4.chunk.js": "/upload/media/prezent/static/js/2.94585eb4.chunk.js",
+    "static/js/2.94585eb4.chunk.js.map": "/upload/media/prezent/static/js/2.94585eb4.chunk.js.map",
     "index.html": "/upload/media/prezent/index.html",
-    "precache-manifest.72e3a7d75b0cd1467ac176d29ae32391.js": "/upload/media/prezent/precache-manifest.72e3a7d75b0cd1467ac176d29ae32391.js",
+    "precache-manifest.c07e0e21761cc9367c3f62c62325d494.js": "/upload/media/prezent/precache-manifest.c07e0e21761cc9367c3f62c62325d494.js",
     "service-worker.js": "/upload/media/prezent/service-worker.js",
-    "static/css/main.bfd52763.chunk.css.map": "/upload/media/prezent/static/css/main.bfd52763.chunk.css.map",
-    "static/js/2.4d414667.chunk.js.LICENSE.txt": "/upload/media/prezent/static/js/2.4d414667.chunk.js.LICENSE.txt",
+    "static/css/main.8d66d91d.chunk.css.map": "/upload/media/prezent/static/css/main.8d66d91d.chunk.css.map",
+    "static/js/2.94585eb4.chunk.js.LICENSE.txt": "/upload/media/prezent/static/js/2.94585eb4.chunk.js.LICENSE.txt",
     "static/media/0.4bb2ff98.svg": "/upload/media/prezent/static/media/0.4bb2ff98.svg",
     "static/media/1.fa7001ec.svg": "/upload/media/prezent/static/media/1.fa7001ec.svg",
     "static/media/17821_m.png": "/upload/media/prezent/static/media/17821_m.3907bccc.png",
@@ -73,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f38104e8.js",
-    "static/js/2.4d414667.chunk.js",
-    "static/css/main.bfd52763.chunk.css",
-    "static/js/main.243c2478.chunk.js"
+    "static/js/2.94585eb4.chunk.js",
+    "static/css/main.8d66d91d.chunk.css",
+    "static/js/main.f386cad3.chunk.js"
   ]
 }
